@@ -1,0 +1,4 @@
+Metric;Proportional;Binary
+precision;0.609212;0.651822
+recall;0.532806;0.740331
+F1;0.568453; 0.693263
